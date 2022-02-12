@@ -1,0 +1,15 @@
+{
+  "name": "kerrielow/moorithdev",
+  "authors": [
+    {
+      "name": "Kerrie Low",
+      "email": "quizzlixx@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  },
+  "autoload": {
+    "classmap": ["models", "classes", "controller"]
+  }
+}

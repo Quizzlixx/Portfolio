@@ -17,8 +17,6 @@
             <li class="text-monospace nav-item bg-dark"><a href="#bio" class="nav-link">Bio</a></li>
             <li class="text-monospace nav-item bg-dark"><a href="#portfolio" class="nav-link">Portfolio</a></li>
             <li class="text-monospace nav-item bg-dark"><a href="305/klow-resume.html" target="_blank" class="nav-link">Resume</a></li>
-            <li class="text-monospace nav-item bg-dark"><a href="305/guestbook.php" class="nav-link">Guestbook</a></li>
-            <li class="text-monospace nav-item bg-dark"><a href="305/login.php" class="nav-link">Login</a></li>
         </ul>
     </div>
 </nav> <!-- /nav -->
